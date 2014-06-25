@@ -13,8 +13,5 @@
 	define("DB_PASS", $pass); //Password de la base	
 	define("DB_NAME",$dbname); //Nombre de la base
 	define("DB_CHARSET", "utf-8"); //para los juegos de caracteres
-
-	//print_r($matriz);
-
 ?>
 
